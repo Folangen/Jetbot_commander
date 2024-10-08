@@ -1,0 +1,37 @@
+/home/kostya/.local/lib/python3.8/site-packages/setuptools/_distutils/dist.py:268: UserWarning: Unknown distribution option: 'tests_require'
+  warnings.warn(msg)
+running egg_info
+creating build/ROS2_Jetbot_Motor_Controller/ROS2_Jetbot_Motor_Controller.egg-info
+writing build/ROS2_Jetbot_Motor_Controller/ROS2_Jetbot_Motor_Controller.egg-info/PKG-INFO
+writing dependency_links to build/ROS2_Jetbot_Motor_Controller/ROS2_Jetbot_Motor_Controller.egg-info/dependency_links.txt
+writing entry points to build/ROS2_Jetbot_Motor_Controller/ROS2_Jetbot_Motor_Controller.egg-info/entry_points.txt
+writing requirements to build/ROS2_Jetbot_Motor_Controller/ROS2_Jetbot_Motor_Controller.egg-info/requires.txt
+writing top-level names to build/ROS2_Jetbot_Motor_Controller/ROS2_Jetbot_Motor_Controller.egg-info/top_level.txt
+writing manifest file 'build/ROS2_Jetbot_Motor_Controller/ROS2_Jetbot_Motor_Controller.egg-info/SOURCES.txt'
+reading manifest file 'build/ROS2_Jetbot_Motor_Controller/ROS2_Jetbot_Motor_Controller.egg-info/SOURCES.txt'
+writing manifest file 'build/ROS2_Jetbot_Motor_Controller/ROS2_Jetbot_Motor_Controller.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/kostya/ros2_ws/ROS2_Jetbot_Motor_Controller/build/ROS2_Jetbot_Motor_Controller/build
+creating /home/kostya/ros2_ws/ROS2_Jetbot_Motor_Controller/build/ROS2_Jetbot_Motor_Controller/build/lib
+creating /home/kostya/ros2_ws/ROS2_Jetbot_Motor_Controller/build/ROS2_Jetbot_Motor_Controller/build/lib/ROS2_Jetbot_Motor_Controller
+copying ROS2_Jetbot_Motor_Controller/__init__.py -> /home/kostya/ros2_ws/ROS2_Jetbot_Motor_Controller/build/ROS2_Jetbot_Motor_Controller/build/lib/ROS2_Jetbot_Motor_Controller
+copying ROS2_Jetbot_Motor_Controller/JBAC.py -> /home/kostya/ros2_ws/ROS2_Jetbot_Motor_Controller/build/ROS2_Jetbot_Motor_Controller/build/lib/ROS2_Jetbot_Motor_Controller
+running install
+running install_lib
+creating /home/kostya/ros2_ws/ROS2_Jetbot_Motor_Controller/install/ROS2_Jetbot_Motor_Controller/lib/python3.8/site-packages/ROS2_Jetbot_Motor_Controller
+copying /home/kostya/ros2_ws/ROS2_Jetbot_Motor_Controller/build/ROS2_Jetbot_Motor_Controller/build/lib/ROS2_Jetbot_Motor_Controller/__init__.py -> /home/kostya/ros2_ws/ROS2_Jetbot_Motor_Controller/install/ROS2_Jetbot_Motor_Controller/lib/python3.8/site-packages/ROS2_Jetbot_Motor_Controller
+copying /home/kostya/ros2_ws/ROS2_Jetbot_Motor_Controller/build/ROS2_Jetbot_Motor_Controller/build/lib/ROS2_Jetbot_Motor_Controller/JBAC.py -> /home/kostya/ros2_ws/ROS2_Jetbot_Motor_Controller/install/ROS2_Jetbot_Motor_Controller/lib/python3.8/site-packages/ROS2_Jetbot_Motor_Controller
+byte-compiling /home/kostya/ros2_ws/ROS2_Jetbot_Motor_Controller/install/ROS2_Jetbot_Motor_Controller/lib/python3.8/site-packages/ROS2_Jetbot_Motor_Controller/__init__.py to __init__.cpython-38.pyc
+byte-compiling /home/kostya/ros2_ws/ROS2_Jetbot_Motor_Controller/install/ROS2_Jetbot_Motor_Controller/lib/python3.8/site-packages/ROS2_Jetbot_Motor_Controller/JBAC.py to JBAC.cpython-38.pyc
+running install_data
+creating /home/kostya/ros2_ws/ROS2_Jetbot_Motor_Controller/install/ROS2_Jetbot_Motor_Controller/share/ament_index
+creating /home/kostya/ros2_ws/ROS2_Jetbot_Motor_Controller/install/ROS2_Jetbot_Motor_Controller/share/ament_index/resource_index
+creating /home/kostya/ros2_ws/ROS2_Jetbot_Motor_Controller/install/ROS2_Jetbot_Motor_Controller/share/ament_index/resource_index/packages
+copying resource/ROS2_Jetbot_Motor_Controller -> /home/kostya/ros2_ws/ROS2_Jetbot_Motor_Controller/install/ROS2_Jetbot_Motor_Controller/share/ament_index/resource_index/packages
+copying package.xml -> /home/kostya/ros2_ws/ROS2_Jetbot_Motor_Controller/install/ROS2_Jetbot_Motor_Controller/share/ROS2_Jetbot_Motor_Controller
+running install_egg_info
+Copying build/ROS2_Jetbot_Motor_Controller/ROS2_Jetbot_Motor_Controller.egg-info to /home/kostya/ros2_ws/ROS2_Jetbot_Motor_Controller/install/ROS2_Jetbot_Motor_Controller/lib/python3.8/site-packages/ROS2_Jetbot_Motor_Controller-0.0.0-py3.8.egg-info
+running install_scripts
+Installing listener script to /home/kostya/ros2_ws/ROS2_Jetbot_Motor_Controller/install/ROS2_Jetbot_Motor_Controller/lib/ROS2_Jetbot_Motor_Controller
+writing list of installed files to '/home/kostya/ros2_ws/ROS2_Jetbot_Motor_Controller/build/ROS2_Jetbot_Motor_Controller/install.log'

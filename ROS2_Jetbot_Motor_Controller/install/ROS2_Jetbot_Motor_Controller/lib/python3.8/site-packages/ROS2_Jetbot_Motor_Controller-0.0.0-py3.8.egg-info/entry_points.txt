@@ -1,0 +1,2 @@
+[console_scripts]
+listener = ROS2_Jetbot_Motor_Controller.JBAC:main

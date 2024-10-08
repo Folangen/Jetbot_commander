@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: ROS2_Jetbot_Motor_Controller
+Version: 0.0.0
+Summary: TODO: Package description
+Maintainer: kostya
+Maintainer-email: kostya@todo.todo
+License: TODO: License declaration
+Requires-Dist: setuptools
